@@ -53,7 +53,9 @@
       "^https://(?:[^/]*\\.)?zoom\\.us(/.*)?$",
       "^https://[^/]*\\.mycurricula\\.com(/.*)?$",
       "^https://[^/]*\\.notificationservices\\.org(/.*)?$",
-      "^https://[^/]*\\.reddit\\.com(/.*)?$"
+      "^https://[^/]*\\.reddit\\.com(/.*)?$",
+      "^https://[^/]*\\.corestrengths\\.com(/.*)?$",
+      "^https://[^/]*\\.fs\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
