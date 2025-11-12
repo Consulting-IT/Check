@@ -32,7 +32,8 @@
     "^https://[^.]*\\.azureedge\\.net$",
     "^https://[^.]*\\.bing\\.com$",
     "^https://.*\\.cloud\\.microsoft$",
-    "^https://([^.]+\\.)*live\\.com(/.*)?$"
+    "^https://([^.]+\\.)*live\\.com(/.*)?$",
+    "^https://[^/]*\\.officeapps\\.live\\.com(/.*)?$"
   ],
   "exclusion_system": {
     "description": "Centralized exclusion system to prevent false positives on legitimate sites",
@@ -55,7 +56,8 @@
       "^https://[^/]*\\.notificationservices\\.org(/.*)?$",
       "^https://[^/]*\\.reddit\\.com(/.*)?$",
       "^https://[^/]*\\.corestrengths\\.com(/.*)?$",
-      "^https://[^/]*\\.fs\\.com(/.*)?$"
+      "^https://[^/]*\\.fs\\.com(/.*)?$",
+      "^https://[^/]*\\.halopsa\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
