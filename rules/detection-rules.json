@@ -57,7 +57,8 @@
       "^https://[^/]*\\.reddit\\.com(/.*)?$",
       "^https://[^/]*\\.corestrengths\\.com(/.*)?$",
       "^https://[^/]*\\.fs\\.com(/.*)?$",
-      "^https://[^/]*\\.halopsa\\.com(/.*)?$"
+      "^https://[^/]*\\.halopsa\\.com(/.*)?$",
+      "^https://[^/]*\\.seagateciam\\.ciamlogin\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
