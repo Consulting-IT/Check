@@ -58,6 +58,7 @@
       "^https://[^/]*\\.corestrengths\\.com(/.*)?$",
       "^https://[^/]*\\.fs\\.com(/.*)?$",
       "^https://[^/]*\\.halopsa\\.com(/.*)?$",
+      "^https://[^/]*\\.jotform\\.com(/.*)?$",
       "^https://[^/]*\\.seagateciam\\.ciamlogin\\.com(/.*)?$"
     ],
     "context_indicators": {
