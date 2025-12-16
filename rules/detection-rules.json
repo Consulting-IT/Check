@@ -59,7 +59,8 @@
       "^https://[^/]*\\.fs\\.com(/.*)?$",
       "^https://[^/]*\\.halopsa\\.com(/.*)?$",
       "^https://[^/]*\\.jotform\\.com(/.*)?$",
-      "^https://[^/]*\\.seagateciam\\.ciamlogin\\.com(/.*)?$"
+      "^https://[^/]*\\.seagateciam\\.ciamlogin\\.com(/.*)?$",
+      "^https://[^/]*\\.lenovo\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
