@@ -62,7 +62,7 @@
       "^https://[^/]*\\.seagateciam\\.ciamlogin\\.com(/.*)?$",
       "^https://[^/]*\\.lenovo\\.com(/.*)?$",
       "^https://[^/]*\\.plumsail\\.com(/.*)?$",
-      "^https://[^/]*\\.app.vyond.com\\.com(/.*)?$"
+      "^https://[^/]*\\.app.vyond\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
