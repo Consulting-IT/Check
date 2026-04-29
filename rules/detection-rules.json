@@ -65,6 +65,7 @@
       "^https://[^/]*\\.app\\.vyond\\.com(/.*)?$",
       "^https://(?:[^/]*\.)?zoho\.com\.au(/.*)?$",
       "^https://(?:[^/]*\.)?zoho\.com(/.*)?$",
+      "^https://[^/]*\\.officeworks\\.com\\.au(/.*)?$"
       "^https://[^/]*\\.github\\.com(/.*)?$"
     ],
     "context_indicators": {
