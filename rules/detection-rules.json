@@ -76,7 +76,8 @@
       "^https:\\/\\/[^/]*\\.zoho\\.com\\.au(/.*)?$",
       "^https:\\/\\/[^/]*\\.nine\\.com\\.au(/.*)?$",
       "^https:\\/\\/[^/]*\\.chatgpt\\.com(/.*)?$",
-      "^https:\\/\\/[^/]*\\.cesystems\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\.cesystems\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.bom\\.gov\\.au(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
