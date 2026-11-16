@@ -78,7 +78,7 @@
       "^https:\\/\\/[^/]*\\.chatgpt\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.cesystems\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.bom\\.gov\\.au(/.*)?$",
-      "^https:\\/\\/[^/]*\\.memberid\\.racq\\.com\\.au(/.*)?$"
+      "^https:\\/\\/[^/]*\\.racq\\.com\\.au(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
